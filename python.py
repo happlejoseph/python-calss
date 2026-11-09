@@ -31,8 +31,9 @@
 # print(str(a) + str(b))
 
 
-a = input('enter a value')
-b = 20
+# a = input('enter a value')
+# b = 20
 
-print(type(a))
-print(type(b))
+# print(type(a))
+# print(type(b))
+
