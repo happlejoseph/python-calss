@@ -53,15 +53,32 @@
 
 
 # Find Pass or Fail
-passMark = 30
-top = 80
+# passMark = 30
+# top = 80
 
-student = int(input('Enter your mark: '))
+# student = int(input('Enter your mark: '))
 
-if student > top:
-    print('you have top mark in exam')
+# if student > top:
+#     print('you have top mark in exam')
 
-elif student >= passMark:
-    print('you passed the exam')
+# elif student >= passMark:
+#     print('you passed the exam')
 
-else: print('sorry, you failed')
+# else: print('sorry, you failed')
+
+
+
+
+# Temperature Checker
+# Temperature = int(input('Enter the Temperature: '))
+
+# if Temperature >= 35:
+#     print(Temperature, 'is hot')
+
+# elif Temperature >= 25:
+#     print(Temperature, 'is warm')
+
+# elif Temperature >=15:
+#     print(Temperature, 'is normal')
+
+# else: print(Temperature, 'is cold')
