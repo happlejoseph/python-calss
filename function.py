@@ -74,10 +74,18 @@
 
 
 
-def checkEven(num):
-    if num % 2 == 0:
-        return 'Even'
-    else: return 'Odd'
+# def checkEven(num):
+#     if num % 2 == 0:
+#         return 'Even'
+#     else: return 'Odd'
 
-result = checkEven(7)
-print(result)
+# result = checkEven(7)
+# print(result)
+
+
+
+def greet():
+    print('Helo from function.py')
+
+if __name__ == '__main__':
+        print('this is the main file')
