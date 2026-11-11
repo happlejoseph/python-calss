@@ -43,9 +43,41 @@
 
 
 # sum
-def function(num1, num2):
-    sum = num1 + num2
-    return sum
+# def function(num1, num2):
+#     sum = num1 + num2
+#     return sum
 
-result = function(1, 2)
+# result = function(1, 2)
+# print(result)
+
+
+# def welcome():
+#     print('welcome')
+# welcome()
+
+
+
+
+# def greet(name):
+#     print('helo ' + name)
+
+# greet('rahul')
+
+
+
+# def add(a , b):
+#     sum = a + b
+#     return sum
+
+# result = add( 10, 20)
+# print(result)
+
+
+
+def checkEven(num):
+    if num % 2 == 0:
+        return 'Even'
+    else: return 'Odd'
+
+result = checkEven(7)
 print(result)
